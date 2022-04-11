@@ -1,2 +1,3 @@
 # my-languages
-these are the languages i am creating
+These are the languages I am creating
+I would like to showcase my skills as a beginning developer by making a website based off of my favorite extracurricular activity, creating languages. For right now, I have only begun learning html, but Iam going to start learning css soon, I expect. By the end of this project, I will have demonstrated a knowledge of html and css to make a navigatible website that will allow me to show off another one of my passions.
