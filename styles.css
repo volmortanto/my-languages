@@ -1,0 +1,19 @@
+body{
+    background-color: purple;
+}
+div{
+    text-align: left;
+}
+h1 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.personal {
+    color: rgb(3, 214, 3);
+}
+
+.merfolk{
+    color: turquoise;
+}
