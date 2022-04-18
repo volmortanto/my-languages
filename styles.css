@@ -1,13 +1,11 @@
 body{
     background-color: purple;
-}
-div{
     text-align: left;
+    padding: 3%;
 }
 h1 {
     font-size: 30px;
     color: black;
-    text-align: center;
 }
 
 .personal {
@@ -16,4 +14,11 @@ h1 {
 
 .merfolk{
     color: turquoise;
+}
+:visited{
+    color: black;
+}
+a{
+    color: black;
+    
 }
